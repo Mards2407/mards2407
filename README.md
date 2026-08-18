@@ -1,32 +1,48 @@
-<h1 align="center">Oii! Meu nome e Marco Aurélio</h1>
-<h3 align="center">O programador</h3>
+<h1 data-importer="text" align="center">Oii Meu nome e Marco Aurelio</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mards2407&label=Visitas%20do%20meu%20perfil&color=0e75b6&style=flat" alt="mards2407" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mards2407" alt="mards2407" /></a> </p>
+<p data-importer="text" align="center">- 🌱 Estou aprendendo python,sql<br><br>- 👨‍💻 Todos os meus projetos estão disponíveis [github](github)<br><br>- 📫 Onde me encontrar marcoaurelio.san2000@gmail.com<br><br>- ⚡ Fatos Eu sou divertido e colaborativo</p>
 
-- 🌱 Estou aprendendo **python,sql**
+###
 
-- 👨‍💻 Todos os meus projetos estão disponíveis [github](github)
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+</div>
 
-- 📫 Onde me encontrar **marcoaurelio.san2000@gmail.com**
+###
 
-- ⚡ Fatos **Eu sou divertido e colaborativo**
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marco aurélio rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco aurélio rodrigues" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=mards2407&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/mards2407/mards2407/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mards2407&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="mards2407" /></p>
+###
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mards2407&show_icons=true&theme=tokyonight&title_color=000000&bg_color=000000&cache_seconds=1800&locale=pt-br" alt="mards2407" /></p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mards2407/mards2407/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mards2407/mards2407/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mards2407/mards2407/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mards2407&theme=dark" alt="mards2407" /></p>
-
-![Snake animation](https://github.com/mards2407/mards2407/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mards2407&repo=mards2407&theme=react)](https://github.com/mards2407/mards2407)
+###

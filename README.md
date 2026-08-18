@@ -26,3 +26,7 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mards2407&show_icons=true&theme=tokyonight&title_color=000000&bg_color=000000&cache_seconds=1800&locale=pt-br" alt="mards2407" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mards2407&theme=dark" alt="mards2407" /></p>
+
+![Snake animation](https://github.com/mards2407/mards2407/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mards2407&repo=mards2407&theme=react)](https://github.com/mards2407/mards2407)
